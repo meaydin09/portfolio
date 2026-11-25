@@ -6,13 +6,13 @@ Personal portfolio of a computer engineer and full stack developer. The site int
 
 ## Preview
 
-Open [`demo-freelancer.html`](demo-freelancer.html) in a browser, or serve the folder locally so fonts and scripts load correctly:
+Open [`index.html`](index.html) in a browser, or serve the folder locally so fonts and scripts load correctly:
 
 ```bash
 python -m http.server 5501
 ```
 
-Then visit [http://127.0.0.1:5501/demo-freelancer.html](http://127.0.0.1:5501/demo-freelancer.html).
+Then visit [http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html).
 
 VS Code Live Server is set to port `5501`.
 
@@ -37,9 +37,9 @@ VS Code Live Server is set to port `5501`.
 ## Project layout
 
 ```
-demo-freelancer.html          Page
-demos/freelancer/freelancer.css  Custom styles for this portfolio
-css/  js/  images/            Shared theme assets
+index.html                         Page
+demos/freelancer/freelancer.css    Custom styles for this portfolio
+css/  js/  images/                 Shared theme assets
 ```
 
 ## Contact
